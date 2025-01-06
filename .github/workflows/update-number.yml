@@ -1,0 +1,53 @@
+name: Update Number Multiple Times Daily
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Runs every 4 hours
+  workflow_dispatch:        # Allows manual trigger
+
+jobs:
+  update-number:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up random updates
+        id: random
+        run: |
+          # Generate random number between 2-7
+          UPDATES=$(( $RANDOM % 6 + 2 ))
+          echo "updates=$UPDATES" >> $GITHUB_OUTPUT
+          
+          # Calculate delay between updates (in minutes)
+          # We'll spread updates across ~4 hours to seem more natural
+          DELAY=$(( 240 / $UPDATES ))
+          echo "delay=$DELAY" >> $GITHUB_OUTPUT
+      
+      - name: Perform updates
+        run: |
+          UPDATES=${{ steps.random.outputs.updates }}
+          DELAY=${{ steps.random.outputs.delay }}
+          
+          for ((i=1; i<=$UPDATES; i++)); do
+            # Read current number
+            NUMBER=$(cat number.txt)
+            NEW_NUMBER=$((NUMBER + 1))
+            echo $NEW_NUMBER > number.txt
+            
+            # Commit and push
+            git config --global user.name 'GitHub Action'
+            git config --global user.email 'action@github.com'
+            git add number.txt
+            git commit -m "Update number to $NEW_NUMBER"
+            git push
+            
+            if [ $i -lt $UPDATES ]; then
+              # Random delay variation (±30% of base delay)
+              VARIATION=$(( DELAY * 30 / 100 ))
+              ACTUAL_DELAY=$(( DELAY + (RANDOM % (2 * VARIATION)) - VARIATION ))
+              sleep $(( ACTUAL_DELAY * 60 ))  # Convert to seconds
+            fi
+          done
