@@ -1,0 +1,6 @@
+2025-01-05 19:42:17 - Starting C:\Program Files\nodejs\node.exe  --harmony F:\daltin\fancy_job\node_modules\node-windows\lib\wrapper.js --file F:\daltin\fancy_job\scheduler.js --scriptoptions= --log "GitHubNumberUpdater wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-01-05 19:42:17 - Started 54788
+2025-01-06 10:24:28 - Starting C:\Program Files\nodejs\node.exe  --harmony F:\daltin\fancy_job\node_modules\node-windows\lib\wrapper.js --file F:\daltin\fancy_job\scheduler.js --scriptoptions= --log "GitHubNumberUpdater wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-01-06 10:24:28 - Started 51840
+2025-01-06 10:25:01 - Starting C:\Program Files\nodejs\node.exe  --harmony F:\daltin\fancy_job\node_modules\node-windows\lib\wrapper.js --file F:\daltin\fancy_job\scheduler.js --scriptoptions= --log "GitHubNumberUpdater wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-01-06 10:25:01 - Started 29168

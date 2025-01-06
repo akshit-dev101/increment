@@ -1,0 +1,693 @@
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 56416,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 56416,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 53612,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 53612,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 54728,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-05"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 54728,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 46940,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 46940,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 33480,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 33480,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 52356,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 52356,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 57076,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 57076,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 50240,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 50240,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+Error during git commit: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 24608,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
+Error in main execution: Error: Command failed: git commit -m "Update number: 2025-01-06"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SYSTEM@Akshit.(none)')
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at checkExecSyncError (node:child_process:891:11)
+    at execSync (node:child_process:963:15)
+    at GitHubNumberUpdater.gitCommit (F:\daltin\fancy_job\update_number.js:37:7)
+    at GitHubNumberUpdater.main (F:\daltin\fancy_job\update_number.js:61:12) {
+  status: 128,
+  signal: null,
+  output: [
+    null,
+    <Buffer >,
+    <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+  ],
+  pid: 24608,
+  stdout: <Buffer >,
+  stderr: <Buffer 41 75 74 68 6f 72 20 69 64 65 6e 74 69 74 79 20 75 6e 6b 6e 6f 77 6e 0a 0a 2a 2a 2a 20 50 6c 65 61 73 65 20 74 65 6c 6c 20 6d 65 20 77 68 6f 20 79 6f ... 281 more bytes>
+}
