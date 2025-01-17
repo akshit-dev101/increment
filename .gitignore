@@ -17,7 +17,7 @@ yarn.lock
 *.swp
 *.swo
 *~
-
+/start-service.bat
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -26,6 +26,7 @@ yarn.lock
 .Trashes
 ehthumbs.db
 Thumbs.db
+.log
 
 # Logs
 *.log
